@@ -1,0 +1,6 @@
+/dist
+/build
+/generic_api_stuff.egg-info
+__pycache__
+Pipfile.lock
+/test.py
